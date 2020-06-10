@@ -1,0 +1,24 @@
+# ninja log v5
+3	668	1591800794	src/25a6634@@com.github.thurdai.jarvis@exe/Widgets/Window.c	e7cf547ffaea1ac6
+1210	1447	1591719000	com.github.thurdai.jarvis	90326cf811017b0
+680	1200	1591719000	com.github.thurdai.jarvis@exe/meson-generated_application.c.o	fc309ed8abb3bca
+1	679	1591718999	com.github.thurdai.jarvis@exe/main.c	abfc6a98ca058763
+1	679	1591718999	com.github.thurdai.jarvis@exe/application.c	abfc6a98ca058763
+3	668	1591800794	src/25a6634@@com.github.thurdai.jarvis@exe/Main.c	e7cf547ffaea1ac6
+0	776	1591791096	build.ninja	b1a6a5b7dfc4be98
+543	942	1591719955	src/25a6634@@com.github.thurdai.jarvis@exe/meson-generated_main.c.o	d1c3b3bc0e81217d
+765	1416	1591791114	src/25a6634@@com.github.thurdai.jarvis@exe/meson-generated_Application.c.o	3bc268ed807317cf
+3	596	1591790131	src/25a6634@@com.github.thurdai.jarvis@exe/application.c	8b0106a6c03c63db
+1029	1216	1591800801	src/com.github.thurdai.jarvis	e2dd0d4ddf8d1d0
+765	1454	1591791114	src/25a6634@@com.github.thurdai.jarvis@exe/meson-generated_Main.c.o	320ee73100062c11
+668	1029	1591800801	src/25a6634@@com.github.thurdai.jarvis@exe/meson-generated_Widgets_HeaderBar.c.o	adf23d6f3bc46a6f
+597	946	1591790134	src/25a6634@@com.github.thurdai.jarvis@exe/meson-generated_widgets_window.c.o	3ec00a4f1967d058
+679	1210	1591719000	com.github.thurdai.jarvis@exe/meson-generated_window.c.o	66984187bb0021c6
+3	668	1591800794	src/25a6634@@com.github.thurdai.jarvis@exe/Widgets/HeaderBar.c	e7cf547ffaea1ac6
+543	905	1591719955	src/25a6634@@com.github.thurdai.jarvis@exe/meson-generated_application.c.o	c40faa8c48660e7d
+3	668	1591800794	src/25a6634@@com.github.thurdai.jarvis@exe/Application.c	e7cf547ffaea1ac6
+662	1081	1591798688	src/25a6634@@com.github.thurdai.jarvis@exe/meson-generated_Widgets_Window.c.o	39c92275b28f373b
+1	679	1591718999	com.github.thurdai.jarvis@exe/window.c	abfc6a98ca058763
+3	596	1591790131	src/25a6634@@com.github.thurdai.jarvis@exe/widgets/window.c	8b0106a6c03c63db
+3	596	1591790131	src/25a6634@@com.github.thurdai.jarvis@exe/main.c	8b0106a6c03c63db
+679	1176	1591719000	com.github.thurdai.jarvis@exe/meson-generated_main.c.o	a16357a287c78a97
